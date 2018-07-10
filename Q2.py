@@ -11,7 +11,8 @@ try:
     			count[j] = 1
     result = sorted(count.keys())
     for i in result:
-    	o.write(i)
+    	s= str(i+ " -> " + str(count[i]))
+    	o.write(s)
     	o.write('\n')
 finally:
     f.close()

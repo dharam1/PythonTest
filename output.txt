@@ -1,12 +1,12 @@
-1
-11
-12
-2
-3
-Better
-Good
-Hello
-Make
-Morning
-PLace
-World
+1 -> 1
+11 -> 1
+12 -> 1
+2 -> 1
+3 -> 1
+Better -> 1
+Good -> 1
+Hello -> 2
+Make -> 1
+Morning -> 1
+PLace -> 1
+World -> 3
