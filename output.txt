@@ -1,10 +1,6 @@
-1 -> 1
-11 -> 1
-12 -> 1
-2 -> 1
-3 -> 1
+2Good -> 1
 Better -> 1
-Good -> 1
+Bettr -> 1
 Hello -> 2
 Make -> 1
 Morning -> 1
